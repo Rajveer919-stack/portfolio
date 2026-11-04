@@ -1,0 +1,30 @@
+RAJVEER AI GITHUB PROFILE - SETUP
+
+1) Create a PUBLIC repository named exactly your GitHub username.
+2) Upload all files/folders from this ZIP to the repository root.
+3) In README.md replace every YOUR_GITHUB_USERNAME with your exact GitHub username.
+4) Commit the files.
+5) Open repository Settings > Actions > General > Workflow permissions.
+   Select "Read and write permissions" and save.
+6) Open Actions tab. Run "Generate Contribution Snake" manually.
+   It publishes SVGs to an output branch.
+7) Run "Generate 3D Contribution Profile" manually.
+   It generates profile-3d-contrib/profile-night-view.svg in the main branch.
+8) Refresh the profile README after both workflows succeed.
+
+FILES
+- README.md
+- .github/workflows/snake.yml
+- .github/workflows/profile-3d.yml
+- assets/friday-ai-core.svg
+- assets/matrix-rain.svg
+
+NOTES
+- GitHub README does not execute JavaScript or run a real interactive terminal.
+  The terminal section is a terminal-style code block plus typing animation.
+- FRIDAY AI core and Matrix rain are decorative SVG animations, not a live AI service.
+- GitHub stats/trophies/typing/visitor counter use third-party image services and may
+  occasionally be unavailable or rate-limited.
+- The 3D contribution image appears only after the 3D workflow succeeds.
+- The Snake image appears only after the Snake workflow succeeds.
+- Confirm the exact repository names and project links before adding direct links.

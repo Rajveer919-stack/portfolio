@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="250" viewBox="0 0 1000 250" role="img" aria-label="Animated Matrix digital rain">
+<rect width="1000" height="250" rx="18" fill="#020907"/>
+<g font-family="monospace" font-size="17" fill="#22c55e" opacity=".9">
+<g transform="translate(35 -260)">
+<animateTransform attributeName="transform" type="translate" values="35 -260;35 280" dur="5.0s" begin="0.0s" repeatCount="indefinite"/>
+<text x="0" y="0">1</text><text x="0" y="24">0</text><text x="0" y="48">1</text><text x="0" y="72">0</text><text x="0" y="96">1</text><text x="0" y="120">1</text><text x="0" y="144">0</text><text x="0" y="168">1</text><text x="0" y="192">0</text><text x="0" y="216">1</text><text x="0" y="240">0</text><text x="0" y="264">1</text>
+</g>
+<g transform="translate(105 -295)">
+<animateTransform attributeName="transform" type="translate" values="105 -260;105 280" dur="6.2s" begin="-1.1s" repeatCount="indefinite"/>
+<text x="0" y="0">1</text><text x="0" y="24">0</text><text x="0" y="48">1</text><text x="0" y="72">0</text><text x="0" y="96">1</text><text x="0" y="120">1</text><text x="0" y="144">0</text><text x="0" y="168">1</text><text x="0" y="192">0</text><text x="0" y="216">1</text><text x="0" y="240">0</text><text x="0" y="264">1</text>
+</g>
+<g transform="translate(175 -330)">
+<animateTransform attributeName="transform" type="translate" values="175 -260;175 280" dur="7.4s" begin="-2.2s" repeatCount="indefinite"/>
+<text x="0" y="0">1</text><text x="0" y="24">0</text><text x="0" y="48">1</text><text x="0" y="72">0</text><text x="0" y="96">1</text><text x="0" y="120">1</text><text x="0" y="144">0</text><text x="0" y="168">1</text><text x="0" y="192">0</text><text x="0" y="216">1</text><text x="0" y="240">0</text><text x="0" y="264">1</text>
+</g>
+<g transform="translate(245 -365)">
+<animateTransform attributeName="transform" type="translate" values="245 -260;245 280" dur="8.6s" begin="-3.3000000000000003s" repeatCount="indefinite"/>
+<text x="0" y="0">1</text><text x="0" y="24">0</text><text x="0" y="48">1</text><text x="0" y="72">0</text><text x="0" y="96">1</text><text x="0" y="120">1</text><text x="0" y="144">0</text><text x="0" y="168">1</text><text x="0" y="192">0</text><text x="0" y="216">1</text><text x="0" y="240">0</text><text x="0" y="264">1</text>
+</g>
+<g transform="translate(315 -400)">
+<animateTransform attributeName="transform" type="translate" values="315 -260;315 280" dur="5.0s" begin="-4.4s" repeatCount="indefinite"/>
+<text x="0" y="0">1</text><text x="0" y="24">0</text><text x="0" y="48">1</text><text x="0" y="72">0</text><text x="0" y="96">1</text><text x="0" y="120">1</text><text x="0" y="144">0</text><text x="0" y="168">1</text><text x="0" y="192">0</text><text x="0" y="216">1</text><text x="0" y="240">0</text><text x="0" y="264">1</text>
+</g>
+<g transform="translate(385 -260)">
+<animateTransform attributeName="transform" type="translate" values="385 -260;385 280" dur="6.2s" begin="0.0s" repeatCount="indefinite"/>
+<text x="0" y="0">1</text><text x="0" y="24">0</text><text x="0" y="48">1</text><text x="0" y="72">0</text><text x="0" y="96">1</text><text x="0" y="120">1</text><text x="0" y="144">0</text><text x="0" y="168">1</text><text x="0" y="192">0</text><text x="0" y="216">1</text><text x="0" y="240">0</text><text x="0" y="264">1</text>
+</g>
+<g transform="translate(455 -295)">
+<animateTransform attributeName="transform" type="translate" values="455 -260;455 280" dur="7.4s" begin="-1.1s" repeatCount="indefinite"/>
+<text x="0" y="0">1</text><text x="0" y="24">0</text><text x="0" y="48">1</text><text x="0" y="72">0</text><text x="0" y="96">1</text><text x="0" y="120">1</text><text x="0" y="144">0</text><text x="0" y="168">1</text><text x="0" y="192">0</text><text x="0" y="216">1</text><text x="0" y="240">0</text><text x="0" y="264">1</text>
+</g>
+<g transform="translate(525 -330)">
+<animateTransform attributeName="transform" type="translate" values="525 -260;525 280" dur="8.6s" begin="-2.2s" repeatCount="indefinite"/>
+<text x="0" y="0">1</text><text x="0" y="24">0</text><text x="0" y="48">1</text><text x="0" y="72">0</text><text x="0" y="96">1</text><text x="0" y="120">1</text><text x="0" y="144">0</text><text x="0" y="168">1</text><text x="0" y="192">0</text><text x="0" y="216">1</text><text x="0" y="240">0</text><text x="0" y="264">1</text>
+</g>
+<g transform="translate(595 -365)">
+<animateTransform attributeName="transform" type="translate" values="595 -260;595 280" dur="5.0s" begin="-3.3000000000000003s" repeatCount="indefinite"/>
+<text x="0" y="0">1</text><text x="0" y="24">0</text><text x="0" y="48">1</text><text x="0" y="72">0</text><text x="0" y="96">1</text><text x="0" y="120">1</text><text x="0" y="144">0</text><text x="0" y="168">1</text><text x="0" y="192">0</text><text x="0" y="216">1</text><text x="0" y="240">0</text><text x="0" y="264">1</text>
+</g>
+<g transform="translate(665 -400)">
+<animateTransform attributeName="transform" type="translate" values="665 -260;665 280" dur="6.2s" begin="-4.4s" repeatCount="indefinite"/>
+<text x="0" y="0">1</text><text x="0" y="24">0</text><text x="0" y="48">1</text><text x="0" y="72">0</text><text x="0" y="96">1</text><text x="0" y="120">1</text><text x="0" y="144">0</text><text x="0" y="168">1</text><text x="0" y="192">0</text><text x="0" y="216">1</text><text x="0" y="240">0</text><text x="0" y="264">1</text>
+</g>
+<g transform="translate(735 -260)">
+<animateTransform attributeName="transform" type="translate" values="735 -260;735 280" dur="7.4s" begin="0.0s" repeatCount="indefinite"/>
+<text x="0" y="0">1</text><text x="0" y="24">0</text><text x="0" y="48">1</text><text x="0" y="72">0</text><text x="0" y="96">1</text><text x="0" y="120">1</text><text x="0" y="144">0</text><text x="0" y="168">1</text><text x="0" y="192">0</text><text x="0" y="216">1</text><text x="0" y="240">0</text><text x="0" y="264">1</text>
+</g>
+<g transform="translate(805 -295)">
+<animateTransform attributeName="transform" type="translate" values="805 -260;805 280" dur="8.6s" begin="-1.1s" repeatCount="indefinite"/>
+<text x="0" y="0">1</text><text x="0" y="24">0</text><text x="0" y="48">1</text><text x="0" y="72">0</text><text x="0" y="96">1</text><text x="0" y="120">1</text><text x="0" y="144">0</text><text x="0" y="168">1</text><text x="0" y="192">0</text><text x="0" y="216">1</text><text x="0" y="240">0</text><text x="0" y="264">1</text>
+</g>
+<g transform="translate(875 -330)">
+<animateTransform attributeName="transform" type="translate" values="875 -260;875 280" dur="5.0s" begin="-2.2s" repeatCount="indefinite"/>
+<text x="0" y="0">1</text><text x="0" y="24">0</text><text x="0" y="48">1</text><text x="0" y="72">0</text><text x="0" y="96">1</text><text x="0" y="120">1</text><text x="0" y="144">0</text><text x="0" y="168">1</text><text x="0" y="192">0</text><text x="0" y="216">1</text><text x="0" y="240">0</text><text x="0" y="264">1</text>
+</g>
+<g transform="translate(945 -365)">
+<animateTransform attributeName="transform" type="translate" values="945 -260;945 280" dur="6.2s" begin="-3.3000000000000003s" repeatCount="indefinite"/>
+<text x="0" y="0">1</text><text x="0" y="24">0</text><text x="0" y="48">1</text><text x="0" y="72">0</text><text x="0" y="96">1</text><text x="0" y="120">1</text><text x="0" y="144">0</text><text x="0" y="168">1</text><text x="0" y="192">0</text><text x="0" y="216">1</text><text x="0" y="240">0</text><text x="0" y="264">1</text>
+</g>
+</g>
+<rect x="22" y="18" width="956" height="214" rx="12" fill="none" stroke="#14532d" stroke-width="1"/>
+<text x="42" y="45" font-family="monospace" font-size="13" fill="#86efac">RAJVEER@PYTHON-LAB:~$ MATRIX_SEQUENCE_ACTIVE</text>
+</svg>
